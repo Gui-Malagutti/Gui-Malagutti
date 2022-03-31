@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @Gui-Malagutti
-- 👀 I'm interested in IT internship
-- 🌱 I’m currently learning C; PHP ; Python
-- 📫 How to reach me: guimalagutti4@gmail.com / (55) 11 94259-3335
+## 💜 Olá, meu nome é <strong>{Guilherme Malagutti}!</strong>
 
-<!---
-Gui-Malagutti/Gui-Malagutti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> Entusiasta de tecnologia.
+
+🔭 USCS-Ciência da Computação.
+
+💬 Contato: guimalagutti4@gmail.com.
+
+----
+
+## 🚀 Minhas Skills
+
+![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+---
+
+## ⭐ Informações sobre minha conta GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gui-Malagutti&show_icons=true)
