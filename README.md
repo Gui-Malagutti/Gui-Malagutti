@@ -1,6 +1,5 @@
 ## 💜 Olá, meu nome é <strong>{Guilherme Malagutti}!</strong>
 
-> Entusiasta de tecnologia.
 > TecBan - Sistemas de Numerário
 
 🔭 USCS-Ciência da Computação.
